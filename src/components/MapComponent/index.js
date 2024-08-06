@@ -5,7 +5,9 @@ import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility
 import "leaflet-defaulticon-compatibility";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 
-const MapComponent = ({ data, initialZoom }) => {
+// This looks like it might get us where we need to go: https://maxschmitt.me/posts/react-leaflet-open-popup-programmatically
+
+const MapComponent = ({ data, initialZoom, currentlyOpen, setFocus }) => {
   // console.log(data);
   const lats = data.map((d) => d.lat);
   const longs = data.map((d) => d.long);
@@ -27,7 +29,13 @@ const MapComponent = ({ data, initialZoom }) => {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         {data.map((d, index) => (
-          <Marker position={[d.lat, d.long]} key={index}>
+          <Marker
+            position={[d.lat, d.long]}
+            key={index}
+            eventHandlers={{
+              click: () => setFocus(d.name),
+            }}
+          >
             <Popup>
               <strong>{d.name}</strong>
               <br />

@@ -8,37 +8,3 @@
 	max-width: 100%;
 }
 
-.mapDiv {
-	margin-top: 40px;
-}
-
-.mapDiv > div {
-	display: flex;
-	margin-top: 20px;
-}
-
-.textDiv {
-	display: flex;
-	flex-direction: column;
-	margin-left: 20px;
-	width: 320px;
-}
-
-.textDiv details {
-margin-bottom: 10px;
-font-size: 12px;
-}
-
-.textDiv details summary {
-	font-size: 16px;
-}
-
-.textDiv details p {
-	margin-top: 10px;
-}
-
-.textDiv details[open] {
-	border: 1px solid rgb(var(--card-border-rgb));
-	border-radius: 2px;
-	padding: 10px;
-}
