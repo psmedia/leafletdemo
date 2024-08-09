@@ -1,5 +1,69 @@
 [
   {
+    "name": "Singapore Cricket Club",
+    "type": "excavation yielding significant remains",
+    "lat": "",
+    "long": "",
+    "elevation": "",
+    "locationNotes": "",
+    "notes": "",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "",
+    "approximateEndDate": "",
+    "citations": "",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Singapore Map"]
+  },
+  {
+    "name": "Batujaya Cemetary",
+    "type": "immovable architectural remains",
+    "lat": "",
+    "long": "",
+    "elevation": "",
+    "locationNotes": "West Java",
+    "notes": "",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "0200-01-01",
+    "approximateEndDate": "0500-01-01",
+    "citations": "",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Batu Gilang",
+    "type": "",
+    "lat": "",
+    "long": "",
+    "elevation": 81,
+    "locationNotes": "",
+    "notes": "",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "",
+    "approximateEndDate": "",
+    "citations": "",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Mantup",
+    "type": "",
+    "lat": "",
+    "long": "",
+    "elevation": 88,
+    "locationNotes": "",
+    "notes": "",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "",
+    "approximateEndDate": "",
+    "citations": "",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
     "name": "Sampangan",
     "type": "immovable architectural remains",
     "lat": -7.811111,
@@ -13,7 +77,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Payak",
@@ -29,7 +93,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Fort Canning 1984",
@@ -45,7 +109,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
   },
   {
     "name": "Pulau Saigon 1990",
@@ -61,7 +125,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
   },
   {
     "name": "Istana Kampung Glam 2000",
@@ -77,7 +141,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
   },
   {
     "name": "Colombo Court 2000",
@@ -93,7 +157,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
   },
   {
     "name": "The Singapore Cricket Club",
@@ -109,7 +173,7 @@
     "citations": "https://epress.nus.edu.sg/sitereports/colombo/",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
   },
   {
     "name": "St. Andrews Cathedral",
@@ -125,7 +189,7 @@
     "citations": "https://epress.nus.edu.sg/sitereports/sta",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
   },
   {
     "name": "Ft. Canning Spice Garden",
@@ -141,7 +205,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
   },
   {
     "name": "Ft Canning Rescue Dig",
@@ -157,7 +221,23 @@
     "citations": "https://epress.nus.edu.sg/sitereports/fortcanning",
     "status": "",
     "compilersNotes": "",
-    "map": "Singapore Map"
+    "map": ["Singapore Map"]
+  },
+  {
+    "name": "Rang Kwien shipwreck",
+    "type": "Shipwreck",
+    "lat": "",
+    "long": "",
+    "elevation": 0,
+    "locationNotes": "",
+    "notes": "Dishes, storage jars, brown and green wares,",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "1380-01-01",
+    "approximateEndDate": "1400-11-10",
+    "citations": "Brown, Ming Gap?",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Grogol Village: Majapahit Settlement\nin Trowulan",
@@ -173,7 +253,7 @@
     "citations": "Eriawati, Y., & Nugroho, D. (2023, June). Grogol Village: Majapahit Settlement in Trowulan. In 3rd International Conference on Linguistics and Cultural (ICLC 2022) (pp. 495-505). Atlantis Press.",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Trowulan - Former Capital City of Majapahit Kingdom",
@@ -189,7 +269,7 @@
     "citations": "https://whc.unesco.org/en/tentativelists/5466/  and Wahyudi, D. Y., & Malasari, N. N. The (Lost) Majapahit Heritage: Brick Industry versus Trowulan Cultural Heritage1.",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Sanggrahan temple",
@@ -205,7 +285,7 @@
     "citations": "Bioresita, F., Hidayat, H., Kurniawan, J. R., Purnomo, S., & Grussenmeyer, P. (2023, December). 3D Modelling of Sanggrahan Temple Using UAV Imagery and Terrestrial Photogrammetry Method. In IOP Conference Series: Earth and Environmental Science (Vol. 1276, No. 1, p. 012043). IOP Publishing.",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Bontosikuyu Shipwreck Site",
@@ -221,7 +301,23 @@
     "citations": "Adhityatama, S., Anderson, R., Abbas, A., King, C. M., Ng, J. C. M., & Orillaneda, B. (2024). A Preliminary Report on the Late 13th-to Early 14th-Century Bontosikuyu Shipwreck Site, Selayar Island, South Sulawesi, Indonesia: A Case Study for Regional Capacity Building and Research. International Journal of Nautical Archaeology, 1-16.",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Pontada, Lake Motano",
+    "type": "excavation yielding significant remains",
+    "lat": -2.4939044,
+    "long": "",
+    "elevation": "",
+    "locationNotes": "Its topographic coordinates are\n2°300\n50.72600S,121°200\n43.46400E. \nIt is located about 150 m off the coast of Lake Matano and covers a 2.2 ha area (Fig. 6). Its depth ranges 3–14m below the surface of the lake, where vertical visibility is about 8–10 m. This made it very easy for the research team to see the archaeological remains during their work.",
+    "notes": "The fourteenth to early fifteenth century dates for Pontada coincide with a time when Indonesia was experiencing major economic and political developments, notably the emergence of the Majapahit Empire in Java. Interestingly, Muljana (2006:213) interprets the eleventh stanza of the fourteenth century Nāgarakrtāgama epic poem as telling of a journey made by King Hayam Wuruk of Majapahit to Luwu or Matano. The basis for such a trip would have been to trade in pamor luwu, which was being imported to Majapahit Java from coastal Luwu, notably for the manufacture of kris daggers (Do 2013; Reid 1988:110; Solyom and Solyom 1978). Additional evidence of the presence of Javanese from Majapahit in Luwu is seen in the fourteenth to fifteenth century coastal capital of Malangke, which includes a mounded site called Tampung Jawa (meaning Javanese burial ground). The mound contains the oldest clay bricks in South Sulawesi, which may reflect Majapahit technological influence in the region (Bulbeck and Caldwell 2000; Hakim 2000). Such archaeological evidence for Majapahit Javanese presence in coastal Luwu opens the possibility that Javanese blacksmiths migrated to Lake Matano, where they could have passed on their knowledge to local inhabitants. A Javanese connection is further suggested by the kendi with lateral spouts found at Lake Matano; the suspected loom spools also point to an exogenous influence.",
+    "lastExcavationEnded": "2022-01-20",
+    "approximateStartDate": "2015-01-01",
+    "approximateEndDate": "",
+    "citations": "ADHITYATAMA, S., YURNALDI, D., WAHYUDIONO, J., RAMADHAN, A. S., DHONY, M. D. K., ABBAS, A., ... & BULBECK, D. (2023). The Mid-Second Millennium AD Submerged Iron Production Village of Pontada in Lake Matano, South Sulawesi, Indonesia. Asian Perspectives.",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Majapahit Royal\nPalace",
@@ -237,7 +333,7 @@
     "citations": "Gomperts, A., Haag, A., Carey, P., & Umbaran, D. (2014). Archaeological Identification of the Majapahit Royal Palace: Prapañca’s 1365 Description Projected onto Satellite Imagery. The Journal of the Siam Society, 102, 67-118.\n\nhttps://www.iias.asia/the-newsletter/article/new-light-archaeology-majapahit-court-capital",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Brantas Sungai (River)",
@@ -253,7 +349,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Museum Majapahit Trowulan",
@@ -269,7 +365,7 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
   },
   {
     "name": "Phanom Surin wreck",
@@ -285,6 +381,166 @@
     "citations": "Horton M, Boivin N, Crowther A. 2020. Eastern Africa and the early Indian Ocean: understanding mobility in a globalising world. J. Egypt. Hist. 13:1/2380–408\n\nGuy J. 2017. The Phanom Surin shipwreck, a Pahlavi inscription, and their significance for the early history of lower central Thailand. J. Siam Soc. 105:179–96[Google Scholar]",
     "status": "",
     "compilersNotes": "",
-    "map": "Southeast Asia Map"
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Belitung ship wreck",
+    "type": "Shipwreck",
+    "lat": "",
+    "long": "",
+    "elevation": 0,
+    "locationNotes": "",
+    "notes": "also a sewn-plank boat in the Gulf tradition; the vessel included one timber native to Africa",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "0800-01-01",
+    "approximateEndDate": "0850-01-01",
+    "citations": "Flecker M. 2001. A ninth-century ad Arab or Indian shipwreck in Indonesia: first evidence for direct trade with China. World Archaeol. 32:3335–54[Google Scholar]",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Cirebon wreck",
+    "type": "Shipwreck",
+    "lat": "",
+    "long": "",
+    "elevation": 0,
+    "locationNotes": "",
+    "notes": "The post–969 ce Cirebon wreck (Indonesia) was built in local Southeast Asian style and, along with Chinese wares, carried Middle Eastern glass; unworked lapis from Afghanistan; and rock crystal, possibly from the Middle East, South Asia, or Madagascar in East Africa (Liebner 2014).",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "0969-01-01",
+    "approximateEndDate": "1050-01-01",
+    "citations": "Liebner HH. 2014. The siren of Cirebon: a tenth century trading vessel lost in the Java Sea PhD Thesis Univ. Leeds Leeds, UK:",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Ayutthaya",
+    "type": "immovable architectural remains",
+    "lat": 14.347778,
+    "long": 100.560556,
+    "elevation": "",
+    "locationNotes": "",
+    "notes": "",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "",
+    "approximateEndDate": "",
+    "citations": "François Lagirarde, Santi Pakdeekham et Thissana Weerakietsoontorn, « Une inscription de 1375 apr. J.‑C. au dos d’une statue de Buddha conservée au musée national à Ayutthaya (Thaïlande) » [notice archéologique], Bulletin archéologique des Écoles françaises à l’étranger [En ligne], Asie du Sud-Est continentale, mis en ligne le 18 juin 2023, consulté le 06 août 2024. URL : http://journals.openedition.org/baefe/8985 ; DOI : https://doi.org/10.4000/baefe.8985",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Sungai Jaong",
+    "type": "excavation yielding significant remains",
+    "lat": 1.71723,
+    "long": 110.3449724,
+    "elevation": "",
+    "locationNotes": "Date précise de l’opération : 9‑11 mai 2018, 19‑30 juillet 2018, 12 juin-10 juillet 2019, 20 septembre-26 octobre 2022\n1.7172300317396163, 110.34497242657612",
+    "notes": "Radiocarbon dates obtained on five of these floors place metallurgical activities at Sungai Jaong between the 10th and 13th centuries, but the presumed oldest floors at the foot of the hillock remain to be dated. Tons of iron ore slag have been recovered from this area, which was also subject to excavations by Tom Harrisson in the 1950s and 60s.",
+    "lastExcavationEnded": "2022-10-26",
+    "approximateStartDate": "2018-05-09",
+    "approximateEndDate": "2022-10-26",
+    "citations": "Daniel Perret, Mohd. Sherman bin Sauffi, Stéphanie Leroy et Yohan Chabot, « Archaeological Investigations at Sungai Jaong (2018, 2019, 2022), Sarawak, Malaysia » [notice archéologique], Bulletin archéologique des Écoles françaises à l’étranger [En ligne], Asie du Sud-Est péninsulaire et insulaire, mis en ligne le 13 septembre 2023, consulté le 06 août 2024. URL : http://journals.openedition.org/baefe/9703 ; DOI : https://doi.org/10.4000/baefe.9703",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Pasir Kapal inscription",
+    "type": "site of finds of moveable remains (inscription, sculpture)",
+    "lat": -1.7246715,
+    "long": 108.7122861,
+    "elevation": "",
+    "locationNotes": "",
+    "notes": "The Pasir Kapal Inscription provides direct evidence for reconstructing the scenario of the Mongol invasion to Java. The inscription is a useful supplement to the surviving Chinese historical records, specifically in terms of the scale of the fleet, the navigation routes, and the dates of events. The inscription supports a conclusion that the 500 ships departed from Quanzhou on January 22, CE 1293, and then traveled through the Sea of Seven Islands, the Paracel Islands, coastal central-southern Vietnam, and the islands of Catwick, Hon Hai, Con Son, Natuna, Tambelan, Serutu (and also probably Karimata), and Pulau Gelam. Thereafter, the fleet reached Karimun Jawa Island, landing at Tuban in northeastern Java to begin the battle on March 22, CE 1293.",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "2010-01-01",
+    "approximateEndDate": "",
+    "citations": "The research potential of archaeology in Maya-Karimata Islands (Potensi Arkeologi di kepulauan Maya-Karimata)\nArchaeological Research News - Archaeological Center of South Kalimantan (Berita Penelitian Arkeologi-Balai Arkeologi Kalimantan Selatan), 11 (2017), pp. 1-39\n(in Bahasa)",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "Candi Jawi",
+    "type": "immovable architectural remains",
+    "lat": -7.66249,
+    "long": 112.6697562,
+    "elevation": "",
+    "locationNotes": "",
+    "notes": "a syncretic Hindu-Buddhist candi (temple) dated from the late 13th century Singhasari kingdom. The Nagarakretagama canto 56 mentioned this temple as Jajawa. King Kertanegara of Singhasari ordered the construction of this temple to provide a place of worship for the adherents of Shiva-Buddha sect, a syncretic religion patronage by the king.",
+    "lastExcavationEnded": "1982-01-01",
+    "approximateStartDate": "",
+    "approximateEndDate": "",
+    "citations": "",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Southeast Asia Map"]
+  },
+  {
+    "name": "The Temasek Wreck",
+    "type": "Shipwreck",
+    "lat": 1.3308762,
+    "long": 104.4048784,
+    "elevation": "",
+    "locationNotes": "Illustrative location only",
+    "notes": "This shipwreck site was excavated by the Archaeology Unit of the ISEAS – Yusof Ishak Institute, on behalf of Singapore's National Heritage Board, in stages over three years starting in 2016. The work resulted in the recovery of approximately 4.4 tonnes of ceramics and a few other objects. None of the ship's structure survived. Based mostly on their interpretation of the blue-and-white porcelains recovered, excavators date the wreck to between 1340 and 1371 CE, and posit that its destination was the port of Temasek (Singapore).",
+    "lastExcavationEnded": "2019-11-08",
+    "approximateStartDate": "2016-04-12",
+    "approximateEndDate": "2019-11-08",
+    "citations": "See https://epress.nus.edu.sg/sitereports/temasekwreck and  https://www.iseas.edu.sg/wp-content/uploads/2022/03/Flecker_TWPS04_Final_r.pdf",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Singapore Map","Southeast Asia Map"]
+  },
+  {
+    "name": "Empress Place 2015",
+    "type": "excavation yielding significant remains",
+    "lat": 1.2875696,
+    "long": 103.8520226,
+    "elevation": "",
+    "locationNotes": "",
+    "notes": "This was a large-scale rescue excavation by the ISEAS Archaeology unit, with funding and support from the National Heritage Board (NHB), the Urban Redevelopment Authority (URA), the Ministry of National Development, and private donors. Despite the compromised nature of the excavation, many ceramics were recovered, as well as intriguing evidence of port activities.",
+    "lastExcavationEnded": "2015-04-22",
+    "approximateStartDate": "2015-02-02",
+    "approximateEndDate": "2015-04-22",
+    "citations": "Aaron Kao, The Archaeology of the Empress Place Site, Singapore (2015), NUS Press Site Reports, See https://doi.org/10.56159/sitereport12",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Singapore Map"]
+  },
+  {
+    "name": "Empress Place 1998",
+    "type": "excavation yielding significant remains",
+    "lat": 1.2867303,
+    "long": 103.8515049,
+    "elevation": "",
+    "locationNotes": "",
+    "notes": "",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "",
+    "approximateEndDate": "",
+    "citations": "",
+    "status": "",
+    "compilersNotes": "",
+    "map": ["Singapore Map"]
+  },
+  {
+    "name": "No 1 Shipwreck off Hainan",
+    "type": "Shipwreck",
+    "lat": "",
+    "long": "",
+    "elevation": 1500,
+    "locationNotes": "Location approximate",
+    "notes": "While the scientific report has not yet been published, press statements from the National Cultural Heritage Administration of China report that a total of 890 pieces of relics were excavated from the No. 1 shipwreck, including porcelain and pottery items, as well as copper coins. The wreck lies at a depth of 1500 metres and was discovered by the crew of a manned submersible. According to the South China Morning Post, the two sites were jointly investigated by the National Centre for Archaeology, the Chinese Academy of Science, and a local museum in Hainan using both manned and unmanned submersible",
+    "lastExcavationEnded": "",
+    "approximateStartDate": "2022-10-08",
+    "approximateEndDate": "",
+    "citations": "https://english.www.gov.cn/news/202406/13/content_WS666af4fcc6d0868f4e8e814b.html",
+    "status": "",
+    "compilersNotes": "",
+    "map": []
   }
 ]

@@ -9,8 +9,13 @@ import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 
 const MapComponent = ({ data, initialZoom, currentlyOpen, setFocus }) => {
   // console.log(data);
-  const lats = data.map((d) => d.lat);
-  const longs = data.map((d) => d.long);
+  const dataWithLatsAndLongs = data.filter((d) => d.lat && d.long);
+  console.log(
+    "Not being shown on the map: ",
+    data.filter((x) => !dataWithLatsAndLongs.includes(x))
+  );
+  const lats = dataWithLatsAndLongs.map((d) => d.lat);
+  const longs = dataWithLatsAndLongs.map((d) => d.long);
   const minLat = Math.min(...lats);
   const maxLat = Math.max(...lats);
   const minLong = Math.min(...longs);
@@ -26,9 +31,10 @@ const MapComponent = ({ data, initialZoom, currentlyOpen, setFocus }) => {
       >
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          // url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
         />
-        {data.map((d, index) => (
+        {dataWithLatsAndLongs.map((d, index) => (
           <Marker
             position={[d.lat, d.long]}
             key={index}

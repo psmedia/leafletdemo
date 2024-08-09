@@ -22,11 +22,18 @@ const Entry = ({ data, currentlyOpen, setFocus }) => {
     setFocus(data.name);
   };
 
+  const isOnMap = !(data.lat && data.long);
+
   return (
     <details className={styles.entry} open={open} onClick={onToggle}>
       <summary>
-        <strong>{data.name}</strong>
+        <strong className={isOnMap ? styles.notOnMap : ""}>{data.name}</strong>
       </summary>
+      {isOnMap && (
+        <p>
+          <em>Not shown on map</em>
+        </p>
+      )}
       <p>
         <em>{data.type}</em>
       </p>
