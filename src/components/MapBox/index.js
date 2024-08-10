@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import styles from "./styles.module.css";
 import MapComponent from "@/components/MapComponent";
+import { merriweather } from "@/app/fonts";
 
 // TODO: make it so you can click on the list and focus the map.
 
@@ -73,7 +74,7 @@ const Entry = ({ data, currentlyOpen, setFocus }) => {
         </p>
       )}
       {data.notes && (
-        <p>
+        <p className={merriweather.className}>
           <strong>Notes:</strong> {data.notes}
         </p>
       )}

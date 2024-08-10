@@ -1,7 +1,5 @@
-import { Inter } from "next/font/google";
 import "./globals.css";
-
-const inter = Inter({ subsets: ["latin"] });
+import { sourceSans } from "./fonts";
 
 export const metadata = {
   title: "Leaflet demo",
@@ -11,7 +9,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={sourceSans.className}>{children}</body>
     </html>
   );
 }

@@ -28,11 +28,11 @@ font-size: 12px;
 }
 
 .textDiv details[open] {
-	border: 1px solid rgb(var(--card-border-rgb));
+	border: 1px solid var(--black);
 	border-radius: 2px;
 	padding: 10px;
 }
 
 .notOnMap {
-	color: red;
+	color: var(--warning);
 }
