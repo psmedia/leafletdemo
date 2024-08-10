@@ -1,0 +1,51 @@
+.textDiv {
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: var(--paddingInside);
+	right: var(--paddingInside);
+	z-index: 3;
+	font-size: 16px;
+	line-height: 1.5;
+	/* border: 1px solid var(--black); */
+	background-color: var(--white);
+	padding: var(--paddingInside);
+	transition: 0.5s;
+	max-width: var(--siteListWidth);
+	max-height: calc(var(--mapHeight) - 2 * var(--paddingInside));
+	overflow-y: auto;
+	border-radius: 3px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.textDiv ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.textDiv li {
+	line-height: 1.25;
+	margin-left: 1em;
+	text-indent: -1em;
+}
+
+.textDiv li + li {
+	margin-top: 0.25em;
+}
+
+.textDiv hr {
+	margin: 1em 0 0.5em 0;
+	opacity: 0.5;
+}
+
+.focused {
+	color: var(--highlight);
+	font-weight: bold;
+}
+
+.notOnMap {
+	color: var(--warning);
+}
+

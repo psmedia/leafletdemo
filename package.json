@@ -1,5 +1,6 @@
 {
-  "name": "leafletdemo",
+  "name": "sitereports-map",
+	"author": "Dan Visel <dbvisel@gmail.com>",
   "version": "0.1.0",
   "private": true,
   "scripts": {

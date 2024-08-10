@@ -59,6 +59,6 @@ Note that `map` comes in as a string, not an array, and will need some attention
 ## map display
 
  - Zoom is set manually and may need to be adjusted.
- - Currently some entries don't have lat/long and are not displayed on the map.
+ - Currently some entries don't have lat/long and are not displayed as pointers on the map.
  - If there's a string in `siteReportsSlug`, I'm showing it on the `/sitereports` page.
- - 
+ - Map sizes are set via CSS variables in `src/components/MapBox/styles.module.css`. Those could be overwritten for an individual map.

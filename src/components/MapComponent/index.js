@@ -22,7 +22,14 @@ const MapComponent = ({ data, initialZoom, currentlyOpen, setFocus }) => {
   const maxLong = Math.max(...longs);
   // console.log(minLat, maxLat, minLong, maxLong);
   return (
-    <div style={{ width: 800, height: 600 }}>
+    <div
+      style={{
+        width: "var(--mapWidth)",
+        height: "var(--mapHeight)",
+        zIndex: 2,
+        position: "relative",
+      }}
+    >
       <MapContainer
         center={[(minLat + maxLat) / 2, (minLong + maxLong) / 2]}
         zoom={initialZoom}

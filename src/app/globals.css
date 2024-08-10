@@ -11,6 +11,8 @@
 	--orange: rgb(242, 148, 43);
 	--highlight: rgb(242, 148, 43);
 	--warning: firebrick;
+	--paddingInside: 10px;
+	--paddingOutside: 20px;
 }
 
 * {

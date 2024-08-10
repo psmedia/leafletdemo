@@ -1,38 +1,24 @@
+.mapWrapper {
+	margin-bottom: var(--paddingOutside);
+	--mapWidth: calc(100vw - 2 * var(--paddingOutside)); /* 1200px; */
+	--mapHeight: 900px;
+	--detailsBoxWidth: 250px;
+	--siteListWidth: 250px;
+}
+
 .mapDiv {
-	margin-top: 40px;
+	position: relative;
 }
 
-.mapDiv > div {
-	display: flex;
-	margin-top: 20px;
-}
+.mapDiv h2 {
+	position: absolute;
+	top: 12px;
+	left: 80px;
+	z-index: 3;
+	background-color: var(--white);
+	padding: 1px 12px;
+	border-radius: 12px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	color: var(--highlight);
 
-.textDiv {
-	display: flex;
-	flex-direction: column;
-	margin-left: 20px;
-	width: 320px;
-}
-
-.textDiv details {
-margin-bottom: 10px;
-font-size: 12px;
-}
-
-.textDiv details summary {
-	font-size: 16px;
-}
-
-.textDiv details p {
-	margin-top: 10px;
-}
-
-.textDiv details[open] {
-	border: 1px solid var(--black);
-	border-radius: 2px;
-	padding: 10px;
-}
-
-.notOnMap {
-	color: var(--warning);
 }
