@@ -13,7 +13,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "scc"
   },
   {
     "name": "Batujaya Cemetary",
@@ -29,7 +30,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Batu Gilang",
@@ -45,7 +47,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Mantup",
@@ -61,7 +64,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Sampangan",
@@ -77,7 +81,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Payak",
@@ -93,7 +98,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Fort Canning 1984",
@@ -109,7 +115,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Pulau Saigon 1990",
@@ -125,7 +132,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "pulausaigon"
   },
   {
     "name": "Istana Kampung Glam 2000",
@@ -141,7 +149,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "ikg"
   },
   {
     "name": "Colombo Court 2000",
@@ -157,7 +166,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "colombo"
   },
   {
     "name": "The Singapore Cricket Club",
@@ -173,7 +183,8 @@
     "citations": "https://epress.nus.edu.sg/sitereports/colombo/",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "scc"
   },
   {
     "name": "St. Andrews Cathedral",
@@ -189,7 +200,8 @@
     "citations": "https://epress.nus.edu.sg/sitereports/sta",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "sta"
   },
   {
     "name": "Ft. Canning Spice Garden",
@@ -205,7 +217,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "spicegarden"
   },
   {
     "name": "Ft Canning Rescue Dig",
@@ -221,7 +234,8 @@
     "citations": "https://epress.nus.edu.sg/sitereports/fortcanning",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "fortcanning"
   },
   {
     "name": "Rang Kwien shipwreck",
@@ -237,7 +251,8 @@
     "citations": "Brown, Ming Gap?",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Grogol Village: Majapahit Settlement\nin Trowulan",
@@ -253,7 +268,8 @@
     "citations": "Eriawati, Y., & Nugroho, D. (2023, June). Grogol Village: Majapahit Settlement in Trowulan. In 3rd International Conference on Linguistics and Cultural (ICLC 2022) (pp. 495-505). Atlantis Press.",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Trowulan - Former Capital City of Majapahit Kingdom",
@@ -269,7 +285,8 @@
     "citations": "https://whc.unesco.org/en/tentativelists/5466/  and Wahyudi, D. Y., & Malasari, N. N. The (Lost) Majapahit Heritage: Brick Industry versus Trowulan Cultural Heritage1.",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Sanggrahan temple",
@@ -285,7 +302,8 @@
     "citations": "Bioresita, F., Hidayat, H., Kurniawan, J. R., Purnomo, S., & Grussenmeyer, P. (2023, December). 3D Modelling of Sanggrahan Temple Using UAV Imagery and Terrestrial Photogrammetry Method. In IOP Conference Series: Earth and Environmental Science (Vol. 1276, No. 1, p. 012043). IOP Publishing.",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Bontosikuyu Shipwreck Site",
@@ -301,7 +319,8 @@
     "citations": "Adhityatama, S., Anderson, R., Abbas, A., King, C. M., Ng, J. C. M., & Orillaneda, B. (2024). A Preliminary Report on the Late 13th-to Early 14th-Century Bontosikuyu Shipwreck Site, Selayar Island, South Sulawesi, Indonesia: A Case Study for Regional Capacity Building and Research. International Journal of Nautical Archaeology, 1-16.",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Pontada, Lake Motano",
@@ -317,23 +336,25 @@
     "citations": "ADHITYATAMA, S., YURNALDI, D., WAHYUDIONO, J., RAMADHAN, A. S., DHONY, M. D. K., ABBAS, A., ... & BULBECK, D. (2023). The Mid-Second Millennium AD Submerged Iron Production Village of Pontada in Lake Matano, South Sulawesi, Indonesia. Asian Perspectives.",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
-    "name": "Majapahit Royal\nPalace",
+    "name": "The interior of the Majapahit royal palace",
     "type": "immovable architectural remains",
-    "lat": -7.2034829,
-    "long": 111.9334911,
+    "lat": -7.5704267,
+    "long": 112.3796196,
     "elevation": "",
-    "locationNotes": "A general long/lat of the Kedaton district in East Java for now, still reading the report again for more information",
-    "notes": "mapping of the Majapahit royal palace in accordance with Prapañca’s Nāgarakṛtāgama 8-11 account \n\nthe site of the 14th-century royal palace can be identified\nin the Kĕḍaton area of the East Javanese town of Trowulan",
-    "lastExcavationEnded": "",
+    "locationNotes": "This according to the identification of Gomperts, Haag, Carey and Umbaran",
+    "notes": "While pavilions further to the north would have been the site of audiences with outsiders, and certain royal ceremonies, the remains here are most likely of structures of the private areas of the royal palace compounds, as described in the Nagarakrtagama. This is the Kĕḍaton area of the East Javanese town of Trowulan.",
+    "lastExcavationEnded": "2008-07-01",
     "approximateStartDate": "",
     "approximateEndDate": "",
-    "citations": "Gomperts, A., Haag, A., Carey, P., & Umbaran, D. (2014). Archaeological Identification of the Majapahit Royal Palace: Prapañca’s 1365 Description Projected onto Satellite Imagery. The Journal of the Siam Society, 102, 67-118.\n\nhttps://www.iias.asia/the-newsletter/article/new-light-archaeology-majapahit-court-capital",
+    "citations": "Gomperts, A., Haag, A., Carey, P., & Umbaran, D. (2014). Archaeological Identification of the Majapahit Royal Palace: Prapañca’s 1365 Description Projected onto Satellite Imagery. The Journal of the Siam Society, 102, 67-118. The most relevant excavation report is Arifin, Karina, and R. Cecep Eka Permana (eds.). [2011]. Laporan Penelitian Arkeologi Terpadu Indonesia I (PATI-I 2008). Depok: Fakultas Ilmu Pengetahuan\nBudaya, Universitas Indonesia/Orchid Media Creasindo",
     "status": "",
-    "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "compilersNotes": "OK",
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Brantas Sungai (River)",
@@ -349,23 +370,25 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
-    "name": "Museum Majapahit Trowulan",
-    "type": "site of finds of moveable remains (inscription, sculpture)",
-    "lat": -7.5568971,
-    "long": 112.3877759,
+    "name": "Audience Pavilions of the Majapahit Royal Palace",
+    "type": "excavation yielding significant remains",
+    "lat": -7.5601491,
+    "long": 112.3799748,
     "elevation": "",
-    "locationNotes": "",
-    "notes": "",
-    "lastExcavationEnded": "",
+    "locationNotes": "Reconstructing the old plan of the royal capital of Majapahit involves reconciling the descriptions found in Prapanca's Negarakrtagama and other kakawin, with surveys and archaeological excavations. Given the intense changes in the landscape brought with the Dutch introduction of sugar cultivation to the area (and the usefulness of Majapahit-era bricks for warehouses and factory buildings), much uncertainty remains, despite the richness of the site.",
+    "notes": "The royal palace as described by Prapanca includes a number of pavilions for receiving visitors, likely in the northern portion of the palace compound. Private quarters were likely to the south, in the Candi Kedaton area. Many areas here have been excavated but full reports are hard to access. The 2008 dates here refers to the cited survey by Gomperts, Haag and Carey.",
+    "lastExcavationEnded": "2008-01-01",
     "approximateStartDate": "",
     "approximateEndDate": "",
-    "citations": "",
+    "citations": "GOMPERTS, AMRIT, ARNOUD HAAG, and PETER CAREY. “Stutterheim’s Enigma: The Mystery of His Mapping of the Majapahit Kraton at Trowulan in 1941.” Bijdragen Tot de Taal-, Land- En Volkenkunde 164, no. 4 (2008): 411–30. http://www.jstor.org/stable/27868517.",
     "status": "",
-    "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "compilersNotes": "For Majapahit city, let's just include this area (now the Museum), candi kedaton, and perhaps the city gates?",
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Phanom Surin wreck",
@@ -381,7 +404,8 @@
     "citations": "Horton M, Boivin N, Crowther A. 2020. Eastern Africa and the early Indian Ocean: understanding mobility in a globalising world. J. Egypt. Hist. 13:1/2380–408\n\nGuy J. 2017. The Phanom Surin shipwreck, a Pahlavi inscription, and their significance for the early history of lower central Thailand. J. Siam Soc. 105:179–96[Google Scholar]",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Belitung ship wreck",
@@ -397,7 +421,8 @@
     "citations": "Flecker M. 2001. A ninth-century ad Arab or Indian shipwreck in Indonesia: first evidence for direct trade with China. World Archaeol. 32:3335–54[Google Scholar]",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Cirebon wreck",
@@ -413,7 +438,8 @@
     "citations": "Liebner HH. 2014. The siren of Cirebon: a tenth century trading vessel lost in the Java Sea PhD Thesis Univ. Leeds Leeds, UK:",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Ayutthaya",
@@ -429,7 +455,8 @@
     "citations": "François Lagirarde, Santi Pakdeekham et Thissana Weerakietsoontorn, « Une inscription de 1375 apr. J.‑C. au dos d’une statue de Buddha conservée au musée national à Ayutthaya (Thaïlande) » [notice archéologique], Bulletin archéologique des Écoles françaises à l’étranger [En ligne], Asie du Sud-Est continentale, mis en ligne le 18 juin 2023, consulté le 06 août 2024. URL : http://journals.openedition.org/baefe/8985 ; DOI : https://doi.org/10.4000/baefe.8985",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Sungai Jaong",
@@ -445,7 +472,8 @@
     "citations": "Daniel Perret, Mohd. Sherman bin Sauffi, Stéphanie Leroy et Yohan Chabot, « Archaeological Investigations at Sungai Jaong (2018, 2019, 2022), Sarawak, Malaysia » [notice archéologique], Bulletin archéologique des Écoles françaises à l’étranger [En ligne], Asie du Sud-Est péninsulaire et insulaire, mis en ligne le 13 septembre 2023, consulté le 06 août 2024. URL : http://journals.openedition.org/baefe/9703 ; DOI : https://doi.org/10.4000/baefe.9703",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Pasir Kapal inscription",
@@ -461,7 +489,8 @@
     "citations": "The research potential of archaeology in Maya-Karimata Islands (Potensi Arkeologi di kepulauan Maya-Karimata)\nArchaeological Research News - Archaeological Center of South Kalimantan (Berita Penelitian Arkeologi-Balai Arkeologi Kalimantan Selatan), 11 (2017), pp. 1-39\n(in Bahasa)",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "Candi Jawi",
@@ -477,7 +506,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Southeast Asia Map"]
+    "map": ["Southeast Asia Map"],
+    "siteReportsSlug": ""
   },
   {
     "name": "The Temasek Wreck",
@@ -493,7 +523,8 @@
     "citations": "See https://epress.nus.edu.sg/sitereports/temasekwreck and  https://www.iseas.edu.sg/wp-content/uploads/2022/03/Flecker_TWPS04_Final_r.pdf",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map","Southeast Asia Map"]
+    "map": ["Singapore Map","Southeast Asia Map"],
+    "siteReportsSlug": "temasekwreck"
   },
   {
     "name": "Empress Place 2015",
@@ -509,7 +540,8 @@
     "citations": "Aaron Kao, The Archaeology of the Empress Place Site, Singapore (2015), NUS Press Site Reports, See https://doi.org/10.56159/sitereport12",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "emp2015"
   },
   {
     "name": "Empress Place 1998",
@@ -525,7 +557,8 @@
     "citations": "",
     "status": "",
     "compilersNotes": "",
-    "map": ["Singapore Map"]
+    "map": ["Singapore Map"],
+    "siteReportsSlug": "emp"
   },
   {
     "name": "No 1 Shipwreck off Hainan",
@@ -541,6 +574,7 @@
     "citations": "https://english.www.gov.cn/news/202406/13/content_WS666af4fcc6d0868f4e8e814b.html",
     "status": "",
     "compilersNotes": "",
-    "map": []
+    "map": "",
+    "siteReportsSlug": ""
   }
 ]

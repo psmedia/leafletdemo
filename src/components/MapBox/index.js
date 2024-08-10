@@ -23,6 +23,9 @@ const Entry = ({ data, currentlyOpen, setFocus }) => {
   };
 
   const isOnMap = !(data.lat && data.long);
+  const siteReportsUrl = data.siteReportsSlug
+    ? `https://epress.nus.edu.sg/sitereports/${data.siteReportsSlug}`
+    : null;
 
   return (
     <details className={styles.entry} open={open} onClick={onToggle}>
@@ -33,6 +36,13 @@ const Entry = ({ data, currentlyOpen, setFocus }) => {
         <p>
           <em>Not shown on map</em>
         </p>
+      )}
+      {siteReportsUrl ? (
+        <p>
+          <a href={siteReportsUrl}>{siteReportsUrl}</a>
+        </p>
+      ) : (
+        "Not in Site Reports"
       )}
       <p>
         <em>{data.type}</em>

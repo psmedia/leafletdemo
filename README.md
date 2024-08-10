@@ -24,6 +24,7 @@ This might change!
     "status": "",
     "compilersNotes": "",
     "map": ["Southeast Asia Map"]
+    "siteReportsSlug": ""
   },
 ```
 
@@ -45,12 +46,13 @@ This might change!
     "status": string, not currently used
     "compilersNotes": string,
     "map": [enum["Southeast Asia Map", "Singapore Map"]]
+		"siteReportsSlug": string
   },
 ```
 
 I'm using https://csvjson.com/csv2json to convert the JSON, using this as a first line:
 ```
-name,type,lat,long,elevation,locationNotes,notes,lastExcavationEnded,approximateStartDate,approximateEndDate,citations,status,compilersNotes,map
+name,type,lat,long,elevation,locationNotes,notes,lastExcavationEnded,approximateStartDate,approximateEndDate,citations,status,compilersNotes,map,siteReportsSlug
 ```
 Note that `map` comes in as a string, not an array, and will need some attention. `elevation` sometimes comes in as "" not 0 – maybe this means undefined?
 
@@ -58,3 +60,5 @@ Note that `map` comes in as a string, not an array, and will need some attention
 
  - Zoom is set manually and may need to be adjusted.
  - Currently some entries don't have lat/long and are not displayed on the map.
+ - If there's a string in `siteReportsSlug`, I'm showing it on the `/sitereports` page.
+ - 

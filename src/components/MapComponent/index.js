@@ -34,21 +34,35 @@ const MapComponent = ({ data, initialZoom, currentlyOpen, setFocus }) => {
           // url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
         />
-        {dataWithLatsAndLongs.map((d, index) => (
-          <Marker
-            position={[d.lat, d.long]}
-            key={index}
-            eventHandlers={{
-              click: () => setFocus(d.name),
-            }}
-          >
-            <Popup>
-              <strong>{d.name}</strong>
-              <br />
-              <em>{d.type}</em>
-            </Popup>
-          </Marker>
-        ))}
+        {dataWithLatsAndLongs.map((d, index) => {
+          const siteReportsUrl = d.siteReportsSlug
+            ? `https://epress.nus.edu.sg/sitereports/${d.siteReportsSlug}`
+            : null;
+
+          return (
+            <Marker
+              position={[d.lat, d.long]}
+              key={index}
+              eventHandlers={{
+                click: () => setFocus(d.name),
+              }}
+            >
+              <Popup>
+                <strong>{d.name}</strong>
+                <br />
+                <em>{d.type}</em>
+                {siteReportsUrl ? (
+                  <>
+                    <br />
+                    <a href={siteReportsUrl}>{siteReportsUrl}</a>
+                  </>
+                ) : (
+                  ""
+                )}
+              </Popup>
+            </Marker>
+          );
+        })}
       </MapContainer>
     </div>
   );
