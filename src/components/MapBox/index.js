@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import styles from "./styles.module.css";
 import MapComponent from "@/components/MapComponent";
-import { merriweather } from "@/app/fonts";
+import { merriweather } from "../../app/fonts";
 
 // TODO: make it so you can click on the list and focus the map.
 

@@ -1,8 +1,8 @@
-import data from "@/data/mapData.json";
 import dynamic from "next/dynamic";
+import data from "../data/mapData.json";
 import styles from "./page.module.css";
 
-const LazyMap = dynamic(() => import("@/components/MapBox"), {
+const LazyMap = dynamic(() => import("../components/MapBox"), {
   ssr: false,
   loading: () => <p>Loading...</p>,
 });

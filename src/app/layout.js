@@ -1,5 +1,5 @@
 import "./globals.css";
-import { sourceSans } from "./fonts";
+import { sourceSans } from "./fonts.js";
 
 export const metadata = {
   title: "Leaflet demo",
